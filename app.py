@@ -56,6 +56,33 @@ def apply_text_filter(dataframe: pd.DataFrame, search_text: str, searchable_colu
     return dataframe.loc[mask]
 
 
+def stringify_themes(dataframe: pd.DataFrame) -> pd.DataFrame:
+    """Convert a list/array-like 'themes' column into a display-friendly string.
+
+    Parquet round-trips list columns as numpy arrays, which are unhashable and
+    crash Streamlit's dataframe widget (it hashes column values internally for
+    sorting/filtering). This normalizes the column to a plain comma-separated
+    string before display. Safe to call even if the column is already a string
+    or missing entirely.
+    """
+    if "themes" not in dataframe.columns:
+        return dataframe
+
+    display_df = dataframe.copy()
+
+    def _to_display_string(value: object) -> str:
+        if isinstance(value, str):
+            return value
+        if isinstance(value, (list, tuple)):
+            return ", ".join(str(item) for item in value)
+        if hasattr(value, "tolist"):
+            return ", ".join(str(item) for item in value.tolist())
+        return ""
+
+    display_df["themes"] = display_df["themes"].apply(_to_display_string)
+    return display_df
+
+
 def render_metric_card(title: str, value: str | float, delta: str | None = None) -> None:
     """Display a polished KPI card."""
     st.markdown(
@@ -212,7 +239,7 @@ def main() -> None:
         ["name", "neighbourhood", "room_type", "top_themes"],
     )
     st.dataframe(
-        filtered_listings.sort_values("listing_id").reset_index(drop=True),
+        stringify_themes(filtered_listings).sort_values("listing_id").reset_index(drop=True),
         width="stretch",
         hide_index=True,
     )
@@ -225,7 +252,7 @@ def main() -> None:
         ["reviewer_name", "comments", "summary", "themes", "neighbourhood", "name"],
     )
     st.dataframe(
-        filtered_reviews.sort_values("review_id").reset_index(drop=True),
+        stringify_themes(filtered_reviews).sort_values("review_id").reset_index(drop=True),
         width="stretch",
         hide_index=True,
     )
