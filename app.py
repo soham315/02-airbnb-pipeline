@@ -130,9 +130,17 @@ def build_sentiment_chart(reviews_df: pd.DataFrame) -> px.bar:
         color_discrete_map={"positive": "#22c55e", "neutral": "#f59e0b", "negative": "#ef4444"},
     )
 
-
 def build_theme_chart(reviews_df: pd.DataFrame) -> px.bar:
-    theme_rows = reviews_df["themes"].dropna().apply(lambda value: value if isinstance(value, list) else [])
+    def _to_list(value: object) -> list:
+        if isinstance(value, list):
+            return value
+        if isinstance(value, tuple):
+            return list(value)
+        if hasattr(value, "tolist"):
+            return value.tolist()
+        return []
+
+    theme_rows = reviews_df["themes"].dropna().apply(_to_list)
     theme_frame = theme_rows.explode().dropna()
     theme_counts = theme_frame.value_counts().head(10).reset_index()
     theme_counts.columns = ["theme", "count"]
