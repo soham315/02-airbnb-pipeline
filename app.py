@@ -102,7 +102,7 @@ def run_pipeline_command() -> None:
     with st.spinner("Running the pipeline ..."):
         try:
             subprocess.run(
-                ["python", "-m", "src.pipeline", "--sample", "20"],
+                [sys.executable, "-m", "src.pipeline", "--sample", "20"],
                 cwd=ROOT_DIR,
                 check=True,
                 text=True,
