@@ -1,0 +1,101 @@
+review_id,listing_id,reviewer_name,date,comments
+1001,1,Ethan,2024-01-04,The flat was very clean and the host was friendly. Great location near the Tube and I would definitely stay again.
+1002,2,Grace,2024-01-07,Really comfortable stay with excellent communication from the host. The neighbourhood felt safe and convenient.
+1003,3,Oliver,2024-01-10,Really comfortable stay with excellent communication from the host. The neighbourhood felt safe and convenient.
+1004,4,Ethan,2024-01-13,Amazing stay overall. The host shared local tips and the place matched the photos exactly.
+1005,5,Sofia,2024-01-16,We had issues with communication and the bed was uncomfortable. The listing needs improvement.
+1006,6,Arjun,2024-01-19,The room was smaller than expected and the street was noisy at night. Not great value for the price.
+1007,7,Amelia,2024-01-22,The room was smaller than expected and the street was noisy at night. Not great value for the price.
+1008,8,Zoe,2024-01-25,"  The stay was okay overall. Nothing special, though the host answered messages quickly.  "
+1009,9,Ruby,2024-01-28,The property matched the description. Some parts were great while others were just average.
+1010,10,Amelia,2024-01-31,Amazing stay overall. The host shared local tips and the place matched the photos exactly.
+1011,11,Zoe,2024-02-03,Amazing stay overall. The host shared local tips and the place matched the photos exactly.
+1012,12,Arjun,2024-02-06,Really comfortable stay with excellent communication from the host. The neighbourhood felt safe and convenient.
+1013,13,Nina,2024-02-09,Amazing stay overall. The host shared local tips and the place matched the photos exactly.
+1014,14,Grace,2024-02-12,The flat was very clean and the host was friendly. Great location near the Tube and I would definitely stay again.
+1015,15,Luca,2024-02-15,"Stylish place, but a few amenities were broken and it felt expensive for what was offered."
+1016,16,Ava,2024-02-18,The heating struggled and the Wi-Fi kept dropping. The location was fine but the stay felt disappointing.
+1017,17,Maya,2024-02-21,Check-in was confusing and the bathroom did not feel very clean. I would not recommend it.
+1018,18,Ava,2024-02-24,Good location and easy transport links. The room was basic but worked fine for a short trip.
+1019,19,Sofia,2024-02-27,Decent option if you mainly need a place to sleep. The apartment was simple and practical.
+1020,20,Ethan,2024-03-01,"Lovely apartment with strong Wi-Fi, a good bed, and easy check-in. Excellent value for London."
+1021,21,Mason,2024-03-04,Amazing stay overall. The host shared local tips and the place matched the photos exactly.
+1022,22,Grace,2024-03-07,The flat was very clean and the host was friendly. Great location near the Tube and I would definitely stay again.
+1023,23,Nina,2024-03-10,Amazing stay overall. The host shared local tips and the place matched the photos exactly.
+1024,24,Ethan,2024-03-13,"Perfect base for exploring the city. Clean bathroom, quiet nights, and lots of cafes nearby."
+1025,25,Sofia,2024-03-16,We had issues with communication and the bed was uncomfortable. The listing needs improvement.
+1026,26,Leo,2024-03-19,We had issues with communication and the bed was uncomfortable. The listing needs improvement.
+1027,27,Mason,2024-03-22,We had issues with communication and the bed was uncomfortable. The listing needs improvement.
+1028,28,Zoe,2024-03-25,Good location and easy transport links. The room was basic but worked fine for a short trip.
+1029,29,Noah,2024-03-28,
+1030,30,Leo,2024-03-31,The flat was very clean and the host was friendly. Great location near the Tube and I would definitely stay again.
+1031,1,Oliver,2024-04-03,The flat was very clean and the host was friendly. Great location near the Tube and I would definitely stay again.
+1032,2,Ella,2024-04-06,"Lovely apartment with strong Wi-Fi, a good bed, and easy check-in. Excellent value for London."
+1033,3,Nina,2024-04-09,"Lovely apartment with strong Wi-Fi, a good bed, and easy check-in. Excellent value for London."
+1034,4,Luca,2024-04-12,"Lovely apartment with strong Wi-Fi, a good bed, and easy check-in. Excellent value for London."
+1035,5,Mason,2024-04-15,Check-in was confusing and the bathroom did not feel very clean. I would not recommend it.
+1036,6,Grace,2024-04-18,The room was smaller than expected and the street was noisy at night. Not great value for the price.
+1037,7,Theo,2024-04-21,  Check-in was confusing and the bathroom did not feel very clean. I would not recommend it.  
+1038,8,Hugo,2024-04-24,"The stay was okay overall. Nothing special, though the host answered messages quickly."
+1039,9,Luca,2024-04-27,Decent option if you mainly need a place to sleep. The apartment was simple and practical.
+1040,10,Ella,2024-04-30,"Lovely apartment with strong Wi-Fi, a good bed, and easy check-in. Excellent value for London."
+1041,11,Hugo,2024-05-03,Really comfortable stay with excellent communication from the host. The neighbourhood felt safe and convenient.
+1042,12,Ava,2024-05-06,The flat was very clean and the host was friendly. Great location near the Tube and I would definitely stay again.
+1043,13,Oliver,2024-05-09,The flat was very clean and the host was friendly. Great location near the Tube and I would definitely stay again.
+1044,14,Ava,2024-05-12,"Perfect base for exploring the city. Clean bathroom, quiet nights, and lots of cafes nearby."
+1045,15,Grace,2024-05-15,The room was smaller than expected and the street was noisy at night. Not great value for the price.
+1046,16,Zoe,2024-05-18,We had issues with communication and the bed was uncomfortable. The listing needs improvement.
+1047,17,Ava,2024-05-21,Check-in was confusing and the bathroom did not feel very clean. I would not recommend it.
+1048,18,Daniel,2024-05-24,Decent option if you mainly need a place to sleep. The apartment was simple and practical.
+1049,19,Nina,2024-05-27,"The stay was okay overall. Nothing special, though the host answered messages quickly."
+1050,20,Grace,2024-05-30,Really comfortable stay with excellent communication from the host. The neighbourhood felt safe and convenient.
+1051,21,Oliver,2024-06-02,Amazing stay overall. The host shared local tips and the place matched the photos exactly.
+1052,22,Hugo,2024-06-05,"Lovely apartment with strong Wi-Fi, a good bed, and easy check-in. Excellent value for London."
+1053,23,Layla,2024-06-08,"Perfect base for exploring the city. Clean bathroom, quiet nights, and lots of cafes nearby."
+1054,24,Layla,2024-06-11,"Perfect base for exploring the city. Clean bathroom, quiet nights, and lots of cafes nearby."
+1055,25,Mason,2024-06-14,Check-in was confusing and the bathroom did not feel very clean. I would not recommend it.
+1056,26,Maya,2024-06-17,We had issues with communication and the bed was uncomfortable. The listing needs improvement.
+1057,27,Daniel,2024-06-20,The room was smaller than expected and the street was noisy at night. Not great value for the price.
+1058,28,Noah,2024-06-23,Good location and easy transport links. The room was basic but worked fine for a short trip.
+1059,29,Maya,2024-06-26,"The stay was okay overall. Nothing special, though the host answered messages quickly."
+1060,30,Arjun,2024-06-29,Amazing stay overall. The host shared local tips and the place matched the photos exactly.
+1061,1,Sofia,2024-07-02,"Perfect base for exploring the city. Clean bathroom, quiet nights, and lots of cafes nearby."
+1062,2,Ella,2024-07-05,Amazing stay overall. The host shared local tips and the place matched the photos exactly.
+1063,3,Nina,2024-07-08,Amazing stay overall. The host shared local tips and the place matched the photos exactly.
+1064,4,Grace,2024-07-11,Amazing stay overall. The host shared local tips and the place matched the photos exactly.
+1065,5,Amelia,2024-07-14,The room was smaller than expected and the street was noisy at night. Not great value for the price.
+1066,6,Hugo,2024-07-17,The heating struggled and the Wi-Fi kept dropping. The location was fine but the stay felt disappointing.
+1067,7,Ava,2024-07-20,The room was smaller than expected and the street was noisy at night. Not great value for the price.
+1068,8,Leo,2024-07-23,Decent option if you mainly need a place to sleep. The apartment was simple and practical.
+1069,9,Luca,2024-07-26,Decent option if you mainly need a place to sleep. The apartment was simple and practical.
+1070,10,Amelia,2024-07-29,"Lovely apartment with strong Wi-Fi, a good bed, and easy check-in. Excellent value for London."
+1071,11,Ruby,2024-08-01,Really comfortable stay with excellent communication from the host. The neighbourhood felt safe and convenient.
+1072,12,Ruby,2024-08-04,The flat was very clean and the host was friendly. Great location near the Tube and I would definitely stay again.
+1073,13,Leo,2024-08-07,Amazing stay overall. The host shared local tips and the place matched the photos exactly.
+1074,14,Theo,2024-08-10,  Really comfortable stay with excellent communication from the host. The neighbourhood felt safe and convenient.  
+1075,15,Maya,2024-08-13,The heating struggled and the Wi-Fi kept dropping. The location was fine but the stay felt disappointing.
+1076,16,Luca,2024-08-16,We had issues with communication and the bed was uncomfortable. The listing needs improvement.
+1077,17,Ruby,2024-08-19,The room was smaller than expected and the street was noisy at night. Not great value for the price.
+1078,18,Theo,2024-08-22,Convenient area and smooth check-in. A fairly standard London stay with no major surprises.
+1079,19,Daniel,2024-08-25,Good location and easy transport links. The room was basic but worked fine for a short trip.
+1080,20,Ethan,2024-08-28,"Lovely apartment with strong Wi-Fi, a good bed, and easy check-in. Excellent value for London."
+1081,21,Leo,2024-08-31,Really comfortable stay with excellent communication from the host. The neighbourhood felt safe and convenient.
+1082,22,Noah,2024-09-03,Really comfortable stay with excellent communication from the host. The neighbourhood felt safe and convenient.
+1083,23,Layla,2024-09-06,The flat was very clean and the host was friendly. Great location near the Tube and I would definitely stay again.
+1084,24,Sofia,2024-09-09,"Perfect base for exploring the city. Clean bathroom, quiet nights, and lots of cafes nearby."
+1085,25,Sofia,2024-09-12,We had issues with communication and the bed was uncomfortable. The listing needs improvement.
+1086,26,Maya,2024-09-15,Check-in was confusing and the bathroom did not feel very clean. I would not recommend it.
+1087,27,Daniel,2024-09-18,We had issues with communication and the bed was uncomfortable. The listing needs improvement.
+1088,28,Luca,2024-09-21,
+1089,29,Ruby,2024-09-24,The property matched the description. Some parts were great while others were just average.
+1090,30,Arjun,2024-09-27,Really comfortable stay with excellent communication from the host. The neighbourhood felt safe and convenient.
+1091,1,Hugo,2024-09-30,Really comfortable stay with excellent communication from the host. The neighbourhood felt safe and convenient.
+1092,2,Leo,2024-10-03,"Perfect base for exploring the city. Clean bathroom, quiet nights, and lots of cafes nearby."
+1093,3,Mason,2024-10-06,"Perfect base for exploring the city. Clean bathroom, quiet nights, and lots of cafes nearby."
+1094,4,Ruby,2024-10-09,"Perfect base for exploring the city. Clean bathroom, quiet nights, and lots of cafes nearby."
+1095,5,Ethan,2024-10-12,Check-in was confusing and the bathroom did not feel very clean. I would not recommend it.
+1096,6,Oliver,2024-10-15,The room was smaller than expected and the street was noisy at night. Not great value for the price.
+1097,7,Ava,2024-10-18,The room was smaller than expected and the street was noisy at night. Not great value for the price.
+1098,8,Layla,2024-10-21,The property matched the description. Some parts were great while others were just average.
+1099,9,Oliver,2024-10-24,The property matched the description. Some parts were great while others were just average.
+1100,10,Oliver,2024-10-27,The flat was very clean and the host was friendly. Great location near the Tube and I would definitely stay again.

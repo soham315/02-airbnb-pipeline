@@ -1,0 +1,31 @@
+listing_id,name,neighbourhood,room_type,price,minimum_nights,number_of_reviews,availability_365
+1, Camden Market Studio ,Camden,Entire home,145,2,118,240
+2,King's Cross Private Room,Camden,Private room,89,1,64,180
+3,Regent's Park Garden Flat,Camden,Entire home,172,3,92,
+4,Westminster City Escape,Westminster,Entire home,210,2,151,210
+5,Pimlico Budget Room,Westminster,Private room,95,2,55,320
+6,Soho Compact Stay,Westminster,Private room,125,1,80,140
+7,Shoreditch Loft Retreat,Shoreditch,Entire home,188,2,134,200
+8,Brick Lane Shared Room,Shoreditch,Shared room,52,1,41,275
+9,Old Street Creative Hub,Shoreditch,Private room,110,2,76,165
+10,Kensington Elegant Flat,Kensington,Entire home,260,3,121,190
+11,South Kensington Cosy Room,Kensington,Private room,119,2,68,155
+12,Notting Hill Colourful Nest,Kensington,Entire home,205,2,99,220
+13,Brixton Music District Flat,Brixton,Entire home,142,2,87,230
+14,Brixton Friendly Room ,Brixton,Private room,78,1,49,290
+15,Clapham Common Base,Brixton,Entire home,158,2,73,175
+16,Angel Canal Apartment,Islington,Entire home,176,2,102,205
+17,Highbury Quiet Room,Islington,Private room,96,1,57,260
+18,Upper Street Weekend Pad,Islington,Entire home,165,2,84,185
+19,Greenwich Family Flat,Greenwich,Entire home,154,3,90,240
+20,Cutty Sark River Room,Greenwich,Private room,88,1,52,300
+21,Blackheath Calm Retreat,Greenwich,Entire home,170,2,71,190
+22,Hackney Park Loft,Hackney,Entire home,168,2,95,210
+23,London Fields Private Room,Hackney,Private room,92,1,60,280
+24,Victoria Park Shared Stay,Hackney,Shared room,48,1,37,315
+25,Canary Wharf Skyline Flat,Canary Wharf,Entire home,214,2,109,195
+26,Docklands Modern Room,Canary Wharf,Private room,116,1,58,245
+27,Riverside Business Suite,Canary Wharf,Entire home,235,3,83,170
+28,Battersea Park Apartment,Battersea,Entire home,181,2,97,205
+29,Nine Elms Budget Room,Battersea,Private room,84,1,45,310
+30,Chelsea Bridge Shared Loft,Battersea,Shared room,56,1,33,290
